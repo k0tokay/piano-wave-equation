@@ -1,0 +1,11 @@
+{
+  "L": [4, 4],
+  "dx": 0.02,
+  "c": 343,
+  "gamma": 5.0,
+  "mic_pos": [2, 1],
+  "fe": 32e3,
+  "display_amp": 5,
+  "string_pos": [2.5, 1],
+  "c_str_to_room": 3e4
+}
